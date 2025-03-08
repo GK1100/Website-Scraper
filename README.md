@@ -1,8 +1,4 @@
 # Website-Scraper
-Website Scraper using Crawl4ai , Ollama and Gradio for UI
-
-# Ollama Web Scraper
-
 A web scraping tool that crawls websites and generates AI-powered summaries using Ollama models, with a user-friendly Gradio interface.
 
 ## What This Tool Does
