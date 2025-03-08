@@ -63,7 +63,7 @@ This will open a web interface at `http://localhost:7860` in your browser.
 
 In the Gradio interface:
 1. Enter the website URL you want to crawl in the "Start URL" field
-   - Example: `https://www.dsu.edu.in/`
+   - Example: `https://www.Example.com/`
 
 2. Set how many pages to crawl using the "Max Pages" slider
    - Start with a small number (10-20) for testing
