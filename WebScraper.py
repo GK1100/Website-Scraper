@@ -147,7 +147,7 @@ with gr.Blocks(title="Ollama Web Scraper") as demo:
     
     with gr.Row():
         with gr.Column():
-            start_url_input = gr.Textbox(label="Start URL", value="https://www.dsu.edu.in/")
+            start_url_input = gr.Textbox(label="Start URL", value="https://www.Example.com/")
             max_pages_input = gr.Slider(label="Max Pages to Crawl", minimum=1, maximum=500, value=100, step=1)
             output_file_input = gr.Textbox(label="Output CSV File", value="dsu_website_content.csv")
             model_input = gr.Dropdown(
